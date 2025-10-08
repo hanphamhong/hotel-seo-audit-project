@@ -1,5 +1,4 @@
 # Hotel Google Business Profile Sentiment Audit
-❗️❗️ Work In Progress: This project is actively being updated.  
 
 This project is a data-driven audit of five hotel Google Business Profiles, combining sentiment analysis of guest reviews and listing optimization insights. The goal is to identify service gaps, improve online visibility, and enhance local SEO performance through technical and content-based strategies.
 
